@@ -12,6 +12,16 @@
 		257515511CBBF3450053D418 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2575154F1CBBF3450053D418 /* Main.storyboard */; };
 		257515531CBBF3450053D418 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 257515521CBBF3450053D418 /* Assets.xcassets */; };
 		257515561CBBF3450053D418 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 257515541CBBF3450053D418 /* LaunchScreen.storyboard */; };
+		257515671CBBF36E0053D418 /* images03_10sec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2575155D1CBBF36E0053D418 /* images03_10sec.jpg */; };
+		257515681CBBF36E0053D418 /* images04_10sec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2575155E1CBBF36E0053D418 /* images04_10sec.jpg */; };
+		257515691CBBF36E0053D418 /* images05_10sec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2575155F1CBBF36E0053D418 /* images05_10sec.jpg */; };
+		2575156A1CBBF36E0053D418 /* images06_10sec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257515601CBBF36E0053D418 /* images06_10sec.jpg */; };
+		2575156B1CBBF36E0053D418 /* images07_10sec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257515611CBBF36E0053D418 /* images07_10sec.jpg */; };
+		2575156C1CBBF36E0053D418 /* song03_10sec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 257515621CBBF36E0053D418 /* song03_10sec.mp3 */; };
+		2575156D1CBBF36E0053D418 /* song04_10sec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 257515631CBBF36E0053D418 /* song04_10sec.mp3 */; };
+		2575156E1CBBF36E0053D418 /* song05_10sec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 257515641CBBF36E0053D418 /* song05_10sec.mp3 */; };
+		2575156F1CBBF36E0053D418 /* song06_10sec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 257515651CBBF36E0053D418 /* song06_10sec.mp3 */; };
+		257515701CBBF36E0053D418 /* song07_10sec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 257515661CBBF36E0053D418 /* song07_10sec.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		257515521CBBF3450053D418 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		257515551CBBF3450053D418 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		257515571CBBF3450053D418 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2575155D1CBBF36E0053D418 /* images03_10sec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images03_10sec.jpg; path = ../images03_10sec.jpg; sourceTree = "<group>"; };
+		2575155E1CBBF36E0053D418 /* images04_10sec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images04_10sec.jpg; path = ../images04_10sec.jpg; sourceTree = "<group>"; };
+		2575155F1CBBF36E0053D418 /* images05_10sec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images05_10sec.jpg; path = ../images05_10sec.jpg; sourceTree = "<group>"; };
+		257515601CBBF36E0053D418 /* images06_10sec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images06_10sec.jpg; path = ../images06_10sec.jpg; sourceTree = "<group>"; };
+		257515611CBBF36E0053D418 /* images07_10sec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images07_10sec.jpg; path = ../images07_10sec.jpg; sourceTree = "<group>"; };
+		257515621CBBF36E0053D418 /* song03_10sec.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song03_10sec.mp3; path = ../song03_10sec.mp3; sourceTree = "<group>"; };
+		257515631CBBF36E0053D418 /* song04_10sec.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song04_10sec.mp3; path = ../song04_10sec.mp3; sourceTree = "<group>"; };
+		257515641CBBF36E0053D418 /* song05_10sec.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song05_10sec.mp3; path = ../song05_10sec.mp3; sourceTree = "<group>"; };
+		257515651CBBF36E0053D418 /* song06_10sec.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song06_10sec.mp3; path = ../song06_10sec.mp3; sourceTree = "<group>"; };
+		257515661CBBF36E0053D418 /* song07_10sec.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song07_10sec.mp3; path = ../song07_10sec.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,16 @@
 		2575154A1CBBF3450053D418 /* TareaReproductorMusica */ = {
 			isa = PBXGroup;
 			children = (
+				2575155D1CBBF36E0053D418 /* images03_10sec.jpg */,
+				2575155E1CBBF36E0053D418 /* images04_10sec.jpg */,
+				2575155F1CBBF36E0053D418 /* images05_10sec.jpg */,
+				257515601CBBF36E0053D418 /* images06_10sec.jpg */,
+				257515611CBBF36E0053D418 /* images07_10sec.jpg */,
+				257515621CBBF36E0053D418 /* song03_10sec.mp3 */,
+				257515631CBBF36E0053D418 /* song04_10sec.mp3 */,
+				257515641CBBF36E0053D418 /* song05_10sec.mp3 */,
+				257515651CBBF36E0053D418 /* song06_10sec.mp3 */,
+				257515661CBBF36E0053D418 /* song07_10sec.mp3 */,
 				2575154B1CBBF3450053D418 /* AppDelegate.swift */,
 				2575154D1CBBF3450053D418 /* ViewController.swift */,
 				2575154F1CBBF3450053D418 /* Main.storyboard */,
@@ -122,9 +152,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				257515681CBBF36E0053D418 /* images04_10sec.jpg in Resources */,
+				2575156E1CBBF36E0053D418 /* song05_10sec.mp3 in Resources */,
+				2575156F1CBBF36E0053D418 /* song06_10sec.mp3 in Resources */,
+				257515701CBBF36E0053D418 /* song07_10sec.mp3 in Resources */,
+				2575156B1CBBF36E0053D418 /* images07_10sec.jpg in Resources */,
 				257515561CBBF3450053D418 /* LaunchScreen.storyboard in Resources */,
+				257515671CBBF36E0053D418 /* images03_10sec.jpg in Resources */,
+				2575156D1CBBF36E0053D418 /* song04_10sec.mp3 in Resources */,
 				257515531CBBF3450053D418 /* Assets.xcassets in Resources */,
+				2575156C1CBBF36E0053D418 /* song03_10sec.mp3 in Resources */,
 				257515511CBBF3450053D418 /* Main.storyboard in Resources */,
+				2575156A1CBBF36E0053D418 /* images06_10sec.jpg in Resources */,
+				257515691CBBF36E0053D418 /* images05_10sec.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
